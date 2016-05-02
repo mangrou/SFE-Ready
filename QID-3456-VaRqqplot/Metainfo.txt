@@ -1,0 +1,10 @@
+Name of QuantLet : VaRqqplot
+Published in: Statistics of Financial Markets
+Description: 'External function, see SFEVaRqqplot.'
+Keywords: VaR, qq-plot
+See also:
+'SFEVaRbank, SFEVaRbank, SFEVaRqqplot, SFEVaRqqplot, SFEVaRtimeplot, SFEVaRtimeplot, SFEVaRtimeplot, SFEVaRtimeplot2, SFEVaRtimeplot2, VaR, VaR, VaRest'
+
+Author: M. Mueller
+Submitted: Mon, May 02 2016 by Meng Jou Lu
+Example: 
