@@ -26,5 +26,7 @@ See also:
 - VaRest
 - VaRqqplot
 Author: Wolfgang K. Härdle
+Author[Matlab]: Marlene Mueller
 Submitted: Wed, July 22 2015 by quantomas
+Submitted[Matlab]: Mon, May 2 2016 by Meng Jou Lu
 Datafiles: kupfer.dat
