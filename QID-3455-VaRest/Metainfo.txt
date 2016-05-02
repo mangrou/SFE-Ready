@@ -1,0 +1,7 @@
+Name of QuantLet : VaRest
+Published in: Statistics of Financial Markets
+Description: 'External function for estimating the value at risk(VaR).'
+Keywords: VaR
+Author: M. Mueller
+Submitted: Mon, May 02 2016 by Meng Jou Lu
+Example: 
