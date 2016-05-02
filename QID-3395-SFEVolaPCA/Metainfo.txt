@@ -1,0 +1,8 @@
+Name of QuantLet : SFEVolaPCA 
+Published in: Statistics of Financial Markets
+Description: 'Calculates the explained sample variance and the cumulative variance using principal components (in percentages).'
+Keywords: dax, financial, implied-volatility, pca, variance, vdax, volatility
+See also: SFEVolSurfPlot, SFEVolSurfPlot, SFEVolaCov, SFEVolaTermStructure
+Author: Joanna Tomanek
+Submitted: Fri, July 17 2015 by quantomas
+Datafiles: implvola.dat
