@@ -1,9 +1,0 @@
-Name of QuantLet : SFEVolaTermStructure
-Published in: Statistics of Financial Markets
-Description: 'Shows an intersection of the implied volatility surface, illustrates time to maturity structure of implied DAX volatilities at the money.'
-Keywords: atm, black-scholes, dax, financial, implied-volatility, index, option, surface, term structure, vdax, volatility
-See also: SFEVolSurfPlot, SFEVolSurfPlot, SFEVolaCov, SFEVolaPCA
-Author: Joanna Tomanek
-Submitted: Fri, June 05 2015 by Lukas Borke
-Datafiles: implvola.dat
-Example: Time to maturity structure of implied DAX volatilities at the money.
