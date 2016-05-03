@@ -1,0 +1,9 @@
+Name of QuantLet : Vasimle
+Published in: Statistics of Financial Markets
+Description: 'Log-likelihood function used in SFEVasiml.'
+Keywords: interest rate, Vasicek, likelihood
+See also: SFEVasiml
+
+Author[Matlab]: Li Sun
+Submitted[Matlab]: Mon, May 03 2016 by Meng Jou Lu
+Example: 
